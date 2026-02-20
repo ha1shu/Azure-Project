@@ -1,0 +1,9 @@
+{
+	"name": "AzuredataFactoryharshit",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98d673ac-df66-4f59-9062-988a1d9cd45a",
+		"tenantId": "158b1099-d76a-4d0a-ad4d-75e745a453ed"
+	}
+}
