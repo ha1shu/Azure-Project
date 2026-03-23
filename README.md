@@ -245,21 +245,6 @@ This project can be used to analyze music-related events such as:
 
 ---
 
-## Screenshots
-
-Add screenshots here to showcase your Azure resources, pipeline design, and storage layers.
-
-Suggested screenshots:
-
-* Azure Resource Group overview
-* ADF pipeline canvas
-* ADLS Bronze container
-* ADLS Silver container
-* ADLS Gold container
-* Databricks Asset Bundle deployment
-
----
-
 ## Future Improvements
 
 * Add automated testing for Databricks jobs
@@ -275,12 +260,3 @@ Suggested screenshots:
 Created by **Harshit Sharma**
 
 ---
-
-## Notes
-
-This project follows a real-world enterprise style structure where:
-
-* **Bronze** stores raw data
-* **Silver** stores cleaned and transformed data
-* **Gold** stores business-ready insights
-* **Databricks Asset Bundles** are used for deploying Silver and Gold logic efficiently
